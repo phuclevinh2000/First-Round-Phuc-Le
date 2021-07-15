@@ -2,7 +2,7 @@
 The main purpose of this application is to make a list of customers, where you can access to each of them and see more details about that customer. You can contact me by this email: phuclevinh2000@gmail.com
 
 ## Live Demo 
-[Click here](https://www.google.com)
+[Click here](https://firstroundphucle.netlify.app/)
 ![image](https://user-images.githubusercontent.com/47014132/125870531-8ec0f932-088f-4a8e-8044-74405d488bfe.png)
 ![image](https://user-images.githubusercontent.com/47014132/125870560-665cfb7b-90da-4f67-9d34-2dd667c7262a.png)
 

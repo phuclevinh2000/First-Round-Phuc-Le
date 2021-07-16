@@ -40,7 +40,7 @@ const Header = () => {
                     <LinkedInIcon style={{ fontSize: 30, color: 'white'}}/>
                     <span>Linkedin</span>
                 </a>
-                <a target="_blank" rel="noreferrer"  href="https://www.linkedin.com/in/phuc-le-vinh-2000/">
+                <a target="_blank" rel="noreferrer"  href="https://github.com/phuclevinh2000/First-Round-Phuc-Le">
                     <CodeIcon style={{ fontSize: 30, color: 'white'}}/>
                     <span>Source Code</span>
                 </a>
